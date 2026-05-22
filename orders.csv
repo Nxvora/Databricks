@@ -1,0 +1,41 @@
+order_id,customer_name,age,city,state,category,product_name,quantity,unit_price,discount_percent,order_date,status,payment_mode,sales_rep
+1001,Ayan Khan,21,Mumbai,Maharashtra,Electronics,iPhone 14,1,75000.0,10,2024-01-05,completed,UPI,Raj Sharma
+1002,Priya Mehta,34,Delhi,Delhi,Clothing,Nike Shoes,2,4500.0,5,2024-01-06,completed,Credit Card,Sneha Patel
+1003,Rohit Singh,28,Bangalore,Karnataka,Electronics,MacBook Pro,1,125000.0,0,2024-01-07,completed,Net Banking,Raj Sharma
+1004,Sara Ali,22,Chennai,Tamil Nadu,Grocery,Organic Rice,5,250.0,0,2024-01-07,completed,UPI,Amit Verma
+1005,Muhib Khan,25,Hyderabad,Telangana,Electronics,Samsung TV,1,55000.0,15,2024-01-08,cancelled,Credit Card,Sneha Patel
+1006,Neha Gupta,29,Mumbai,Maharashtra,Clothing,Zara Dress,3,3200.0,20,2024-01-08,completed,UPI,Raj Sharma
+1007,Arjun Reddy,31,Bangalore,Karnataka,Electronics,iPad Air,1,65000.0,5,2024-01-09,completed,Credit Card,Amit Verma
+1008,Pooja Sharma,26,Delhi,Delhi,Grocery,Almond Oil,2,800.0,0,2024-01-09,pending,UPI,Sneha Patel
+1009,Vikram Nair,45,Kochi,Kerala,Electronics,Sony Headphones,1,15000.0,10,2024-01-10,completed,Net Banking,Raj Sharma
+1010,Ananya Das,19,Kolkata,West Bengal,Clothing,H&M Jacket,1,2800.0,10,2024-01-10,completed,Credit Card,Amit Verma
+1011,Rahul Joshi,33,Pune,Maharashtra,Electronics,iPhone 14,2,75000.0,10,2024-01-11,completed,UPI,Sneha Patel
+1012,Kavya Pillai,27,Chennai,Tamil Nadu,Grocery,Green Tea,4,350.0,5,2024-01-11,completed,UPI,Raj Sharma
+1013,Aditya Kumar,38,Mumbai,Maharashtra,Electronics,MacBook Pro,1,125000.0,8,2024-01-12,completed,Net Banking,Amit Verma
+1014,Meera Iyer,24,Bangalore,Karnataka,Clothing,Levi Jeans,2,2500.0,15,2024-01-12,cancelled,Credit Card,Sneha Patel
+1015,Suresh Babu,52,Hyderabad,Telangana,Grocery,Olive Oil,3,600.0,0,2024-01-13,completed,UPI,Raj Sharma
+1016,Deepika Roy,30,Kolkata,West Bengal,Electronics,Samsung TV,1,55000.0,20,2024-01-13,completed,Credit Card,Amit Verma
+1017,Kiran Rao,23,Pune,Maharashtra,Clothing,Adidas Tshirt,4,1200.0,0,2024-01-14,pending,UPI,Sneha Patel
+1018,Nisha Tiwari,41,Delhi,Delhi,Electronics,Sony Headphones,2,15000.0,5,2024-01-14,completed,Net Banking,Raj Sharma
+1019,Manish Dubey,36,Mumbai,Maharashtra,Grocery,Basmati Rice,6,180.0,0,2024-01-15,completed,UPI,Amit Verma
+1020,Ritu Agarwal,28,Jaipur,Rajasthan,Clothing,Nike Shoes,1,4500.0,10,2024-01-15,completed,Credit Card,Sneha Patel
+1021,Arun Menon,44,Kochi,Kerala,Electronics,iPad Air,1,65000.0,0,2024-01-16,completed,UPI,Raj Sharma
+1022,Sunita Yadav,32,Lucknow,Uttar Pradesh,Grocery,Coconut Oil,2,450.0,5,2024-01-16,completed,Net Banking,Amit Verma
+1023,Tarun Saxena,27,Jaipur,Rajasthan,Electronics,iPhone 14,1,75000.0,12,2024-01-17,cancelled,Credit Card,Sneha Patel
+1024,Geeta Pillai,55,Chennai,Tamil Nadu,Clothing,Saree,2,5500.0,0,2024-01-17,completed,UPI,Raj Sharma
+1025,Harish Nair,29,Bangalore,Karnataka,Electronics,MacBook Pro,1,125000.0,5,2024-01-18,completed,Net Banking,Amit Verma
+1026,Fatima Sheikh,26,Mumbai,Maharashtra,Grocery,Honey,3,320.0,0,2024-01-18,completed,UPI,Sneha Patel
+1027,Ravi Shankar,48,Hyderabad,Telangana,Electronics,Samsung TV,2,55000.0,10,2024-01-19,completed,Credit Card,Raj Sharma
+1028,Anjali Mishra,22,Delhi,Delhi,Clothing,Zara Dress,1,3200.0,5,2024-01-19,pending,UPI,Amit Verma
+1029,Prakash Jain,37,Pune,Maharashtra,Electronics,Sony Headphones,3,15000.0,8,2024-01-20,completed,Net Banking,Sneha Patel
+1030,Lakshmi Rao,31,Bangalore,Karnataka,Grocery,Organic Rice,4,250.0,0,2024-01-20,completed,UPI,Raj Sharma
+1031,,28,Mumbai,Maharashtra,Electronics,iPhone 14,1,75000.0,10,2024-01-21,completed,UPI,Amit Verma
+1032,Vinay Kumar,NULL,Delhi,Delhi,Clothing,Nike Shoes,2,4500.0,5,2024-01-21,completed,Credit Card,Sneha Patel
+1033,Swati Bhatt,25,NULL,Rajasthan,Grocery,Green Tea,3,350.0,0,2024-01-22,completed,UPI,Raj Sharma
+1034,Nikhil Joshi,33,Hyderabad,Telangana,Electronics,iPad Air,1,65000.0,15,2024-01-22,cancelled,Net Banking,Amit Verma
+1035,Preeti Singh,27,Kolkata,West Bengal,Clothing,H&M Jacket,2,2800.0,10,2024-01-23,completed,Credit Card,Sneha Patel
+1036,Sanjay Gupta,42,Mumbai,Maharashtra,Electronics,MacBook Pro,1,125000.0,0,2024-01-23,completed,UPI,Raj Sharma
+1037,Rekha Nair,38,Kochi,Kerala,Grocery,Almond Oil,2,800.0,5,2024-01-24,completed,Net Banking,Amit Verma
+1038,Vivek Sharma,24,Jaipur,Rajasthan,Clothing,Adidas Tshirt,3,1200.0,0,2024-01-24,pending,UPI,Sneha Patel
+1039,Champa Devi,61,Lucknow,Uttar Pradesh,Grocery,Basmati Rice,5,180.0,0,2024-01-25,completed,Credit Card,Raj Sharma
+1040,Rohit Verma,29,Bangalore,Karnataka,Electronics,Samsung TV,1,55000.0,20,2024-01-25,completed,UPI,Amit Verma
